@@ -1,15 +1,18 @@
 # Bus Reservation System
 
-PROJECT CREATED BY :
+### PROJECT CREATED BY :
+
 Ragul M
+
 6235 - AVS College Of Technology
 
-LOGIN DETAILS:
+### LOGIN DETAILS:
 
 UNAME: admin
+
 Password:admin
 
-#Project Running steps:
+### Project Running steps:
 
 python manage.py makemigrations
 
